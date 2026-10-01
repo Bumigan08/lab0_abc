@@ -31,4 +31,4 @@ echo
 echo "ЗАДАНИЕ 7"
 ls -lR . | grep '^l' | grep -v 'guest' | sort -k9,9
 
-ls -lR ~/lab0
+ls -lR ../lab0

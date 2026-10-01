@@ -17,4 +17,4 @@ rmdir claude_monet/terrace
 
 rm -r claude_monet/hall/terrace_backup
 
-ls -lR ~/lab0
+ls -lR ../lab0

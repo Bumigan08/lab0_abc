@@ -17,4 +17,4 @@ cat claude_monet/staff_room/nastya_note >> vika_report
 
 mv claude_monet/reception/complaints claude_monet/hall/guest_complaints
 
-ls -lR ~/lab0
+ls -lR ../lab0

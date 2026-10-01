@@ -37,4 +37,4 @@ chmod 644 vika_report
 
 chmod u=rw,g=r,o=r nagiev_call
 
-ls -lR ~/lab0
+ls -lR ../lab0
