@@ -86,4 +86,4 @@ cat > lab0/nagiev_call << 'EOF'
 Лучший стол должен быть свободен
 EOF
 
-ls -lR ~/lab0
+ls -lR lab0
